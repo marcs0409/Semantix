@@ -1,0 +1,1 @@
+# EDA Sobre o db churn_modelling, análise com foco no churn de clientes
