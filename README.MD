@@ -1,6 +1,7 @@
 # 📊 Prevenção e Predição de Churn de Clientes Bancários
 
 **Projeto EBAC & Semantix**
+Fonte dos dados: https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn
 
 ---
 
