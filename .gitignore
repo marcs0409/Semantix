@@ -1,0 +1,17 @@
+# Python e Ambientes Virtuais
+.venv/
+venv/
+ENV/
+__pycache__/
+*.py[cod]
+
+# IDEs e Ferramentas de Desenvolvimento
+.idea/
+.vscode/
+.antigravitycli/
+.ipynb_checkpoints/
+*.swp
+
+# Relatórios Temporários
+reports/relatorio_estabilidade.html
+temp_threshold_classifier.pkl

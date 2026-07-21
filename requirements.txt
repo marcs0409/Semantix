@@ -9,4 +9,5 @@ xgboost>=1.7.0
 shap>=0.41.0
 joblib>=1.2.0
 evidently>=0.4.0
-
+nbformat>=5.9.0
+nbclient>=0.8.0
