@@ -9,6 +9,7 @@ Ele carrega o artefato 'modelo_churn_xgboost.pkl' e realiza a predição para no
 import os
 import joblib
 import pandas as pd
+from threshold_classifier import ThresholdClassifier
 
 
 def carregar_modelo(caminho_modelo='modelo_churn_xgboost.pkl'):
